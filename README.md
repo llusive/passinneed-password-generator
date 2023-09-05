@@ -10,3 +10,5 @@ We will be using this document to **add/update ideas** and **how we should execu
 This project is intended to solely **focus on the password generator function and UI**. In future, more features may be added.
 
 Hope this project would help us to understand better for programming in Python and get used to using OOP
+
+P.S We're noobs
